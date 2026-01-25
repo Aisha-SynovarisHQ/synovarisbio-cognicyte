@@ -1,4 +1,4 @@
-# Syovyr— SynovarisBio's AI Brain 🧠✨
+# Synovyr— SynovarisBio's AI Brain 🧠✨
 
 **Synovyr** is an AI-assisted biotech reasoning engine developed by SynovarisBio.  
 It’s designed to analyse diseases, treatments, and biomedical interventions, providing explainable recommendations for research and educational purposes.
