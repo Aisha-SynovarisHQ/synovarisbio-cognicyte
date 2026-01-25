@@ -1,6 +1,6 @@
-# Cognicyte — SynovarisBio's AI Brain 🧠✨
+# Syovyr— SynovarisBio's AI Brain 🧠✨
 
-**CogniCyte** is an AI-assisted biotech reasoning engine developed by SynovarisBio.  
+**Synovyr** is an AI-assisted biotech reasoning engine developed by SynovarisBio.  
 It’s designed to analyse diseases, treatments, and biomedical interventions, providing explainable recommendations for research and educational purposes.
 
 ---
