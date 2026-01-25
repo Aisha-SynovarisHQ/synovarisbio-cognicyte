@@ -37,4 +37,4 @@ SynovarisBio aims to merge cutting-edge biotechnology with artificial intelligen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/synovarisbio-cognicyte.git
+git clone https://github.com/YOUR_USERNAME/synovarisbio-synovyr.git
